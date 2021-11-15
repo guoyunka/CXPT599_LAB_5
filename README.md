@@ -49,7 +49,7 @@ repository.
 	
 [**Kingsley	Chow**]
 
-[**Guoyun Kao**]
+[**Guoyun Kao**](https://github.com/guoyunka)After I joined this class, my goal is to learn how to apply Python to my data analysis.
 
 [**Jay Himanshu Mehta**]
 
